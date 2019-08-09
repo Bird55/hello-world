@@ -1,2 +1,2 @@
 # hello-world
-Учебный репозиторий
+[Учебный репозиторий](https://guides.github.com/activities/hello-world/)
